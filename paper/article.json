@@ -1,0 +1,73 @@
+{
+  "title": "Lean Africa-site pregnancy-related RCTs as a transfer template",
+  "summary": "An E156 micro-paper and scaffold summarizing how often Africa-site pregnancy-related RCTs meet a pragmatic shortlist for cheaper and faster delivery.",
+  "type": "prevalence",
+  "primary_estimand": "Proportion of Africa-site trials meeting the transfer shortlist",
+  "study_count": 80,
+  "participant_count": 296306,
+  "version": "0.1.0",
+  "date": "2026-03-28",
+  "certainty": "low",
+  "app": "Interactive HTML bundle",
+  "data": "Local topic CSV files in the data/ directory",
+  "code": "Local generation via code/ctgov_africa_rct_scan.py",
+  "doi": "Pending GitHub and DOI",
+  "protocol": "protocol/PROTOCOL.md",
+  "source_article": "Derived from local ClinicalTrials.gov topic benchmark outputs",
+  "body": "In Africa-site pregnancy-related randomized trials registered on ClinicalTrials.gov, how often do studies meet a practical shortlist for cheaper and faster delivery? Eighty completed, results-posted trials formed the Africa benchmark, and twelve met pre-specified transfer shortlist criteria on enrollment, sites, countries, and prospective registration. We performed a registry-based descriptive scan, compared Africa-site records with a global benchmark, and treated the shortlist proportion as the primary estimand with Wilson intervals. The shortlist proportion was 0.15, with 95% confidence interval 0.09 to 0.24. Median results-reporting lag was 529.5 days, interquartile range 415.2 to 865.2, while South Africa, Kenya, Uganda, and Egypt dominated the Africa-site footprint. These findings suggest pregnancy-related behavioral and lower-footprint designs may be adaptable overall in African settings, though the domain looks less transfer-rich than malaria for maternal programs with strong antenatal follow-up. Interpretation is limited by registry proxies rather than budgets, sparse result-linked publications, and use of pregnancy as a practical search term for maternal health.",
+  "studies": [],
+  "primary_plot": {
+    "caption": "No numeric forest-style rows embedded for this descriptive registry scan.",
+    "pooled": {
+      "label": "Shortlist proportion",
+      "effect": 0.15,
+      "lower": 0.09,
+      "upper": 0.24
+    }
+  },
+  "validation": {
+    "status": "pass",
+    "checks": [
+      {
+        "name": "single paragraph",
+        "ok": true,
+        "detail": "Body must not contain blank-line paragraph breaks."
+      },
+      {
+        "name": "sentence count",
+        "ok": true,
+        "detail": "Found 7 sentences."
+      },
+      {
+        "name": "word count",
+        "ok": true,
+        "detail": "Found 156 words."
+      },
+      {
+        "name": "no headings",
+        "ok": true,
+        "detail": "No markdown headings allowed in body."
+      },
+      {
+        "name": "no links",
+        "ok": true,
+        "detail": "No links or DOI links allowed in body."
+      },
+      {
+        "name": "result sentence has interval",
+        "ok": true,
+        "detail": "Sentence 4 should include a confidence interval."
+      },
+      {
+        "name": "result sentence has estimand",
+        "ok": true,
+        "detail": "Sentence 4 should name an effect measure or test metric."
+      },
+      {
+        "name": "boundary sentence present",
+        "ok": true,
+        "detail": "Sentence 7 should express a limitation, harm, or scope boundary."
+      }
+    ]
+  }
+}
