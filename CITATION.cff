@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please update author metadata before public release."
+title: "Lean Africa-site pregnancy-related RCTs as a transfer template"
+version: "0.1.0"
+date-released: "2026-03-28"
+authors:
+  - family-names: "Placeholder"
+    given-names: "Author"
+repository-code: "local://maternal-health-e156"
+abstract: "An E156 micro-paper and scaffold summarizing how often Africa-site pregnancy-related RCTs meet a pragmatic shortlist for cheaper and faster delivery."
