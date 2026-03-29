@@ -1,0 +1,23 @@
+# E156 Release Checklist
+
+- [x] Active paper kept in strict `E156` release mode
+- [x] E156 body validated locally
+- [x] Body length is exactly `156` words
+- [x] Body has exactly `7` sentences
+- [x] Body is a single paragraph
+- [x] HTML companion built locally
+- [x] Protocol draft present
+- [x] Data files copied into repo
+- [x] Code files copied into repo
+- [x] E156 cover note drafted
+- [x] E156 title metadata drafted
+- [x] E156 abstract note drafted
+- [x] E156 manuscript wrapper drafted
+- [x] Public GitHub repository available for data and code linking
+- [ ] Final author list added
+- [ ] Affiliations, emails, and ORCIDs added
+- [ ] Funding statement finalized by authors
+- [ ] Competing-interest statement finalized by authors
+- [ ] Zenodo or similar archive created if authors want a DOI for the repository
+- [ ] External read for wording and overclaim risk
+- [ ] Long-form journal expansion only if later requested

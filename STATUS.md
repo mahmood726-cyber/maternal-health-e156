@@ -7,14 +7,18 @@
 - Interactive HTML bundle generated
 - Protocol draft tightened
 - Local git repository initialized
+- Public GitHub repository created
+- Active manuscript aligned to strict E156 release mode
+- E156-facing title metadata, abstract note, manuscript wrapper, and checklist added
 
 ## Still Needed
 
 - final author list and affiliations
-- target-journal decision and formatting wrapper
-- DOI and release metadata
-- public GitHub repository creation if desired
-- external peer review of the protocol wording and claims
+- ORCIDs and corresponding-author details
+- funding and competing-interest statements finalized by authors
+- DOI and archive metadata if desired
+- external read for wording and overclaim risk
+- long-form journal expansion only if later requested
 
 ## Current Version
 
